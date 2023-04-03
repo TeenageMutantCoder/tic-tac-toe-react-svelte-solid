@@ -1,0 +1,8 @@
+{
+  "private": true,
+  "workspaces": [
+    "tic-tac-toe-react",
+    "tic-tac-toe-solid",
+    "tic-tac-toe-svelte"
+  ]
+}
